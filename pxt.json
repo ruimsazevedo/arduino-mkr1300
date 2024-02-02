@@ -1,0 +1,24 @@
+{
+    "name": "arduino mkr1300",
+    "description": "",
+    "dependencies": {
+        "lora": "github:electroniccats/pxt-lora#v0.2.2"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "main.py"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "0.15.66",
+        "targetId": "maker"
+    },
+    "supportedTargets": [
+        "maker"
+    ],
+    "preferredEditor": "blocksprj"
+}
